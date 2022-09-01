@@ -22,10 +22,6 @@ terceiro item do terceiro array = ${array3[2]}
 `)
 
 
-
-// array1.includes(1)
-// array3.includes("c")
-
 console.log(`
 
 ${array1.includes(1)}
